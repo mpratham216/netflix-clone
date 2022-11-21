@@ -1,4 +1,4 @@
-# netflix-clone
+# Netflix-clone
 netflix clone with trailers and UI similar to original netflix.
 Technology stack used:
 --React.js
